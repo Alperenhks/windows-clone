@@ -1,0 +1,9 @@
+.desktop-container{
+    width: 100px;
+    height: 100vh;
+    margin: 0px 10px;
+}
+
+.desktop-items{
+    width: 100%;
+}

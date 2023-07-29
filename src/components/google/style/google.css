@@ -1,0 +1,18 @@
+.google{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+.google p {
+    margin: 5px 0px;
+    width: 50%;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+.google img{
+    width: 75px;
+}

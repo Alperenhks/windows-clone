@@ -1,0 +1,23 @@
+.this-pc-detail{
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pc-folder{
+    width: 15%;
+}
+
+.this-pc-detail img{
+    width: 100%;
+}
+.pc-folder p{
+    text-align: center;
+    margin: 0;
+    font-weight: 400;
+}
+
+a{
+    color: black;
+}
+
